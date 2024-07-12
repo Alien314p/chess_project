@@ -1,0 +1,2 @@
+its a full chess game with gui pygame
+term 2
